@@ -212,7 +212,7 @@ var foo = 1;
 
 {
   // 不会报错
-  let = 2;
+  let foo = 2;
   // other code
 }
 ```
